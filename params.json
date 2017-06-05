@@ -1,6 +1,0 @@
-{
-  "name": "Minrouter",
-  "tagline": "a micro client/server-side router, support pushState, hashchange to IE8+",
-  "body": "# minrouter\r\na micro client/server-side router, pushState, hashchange to support IE8+\r\n\r\n## Fatures\r\n* support html5 pushState\r\n* support hashchange if IE < 10\r\n* support isomorphic router (riot, react)\r\n* support hash-bang (#!), router.sep = '!'\r\n* support forced server-side url, router.sep = '/'\r\n\r\n## Install\r\n    \r\n    npm install minrouter\r\n  \r\nor\r\n\r\n    git clone https://github.com/cheft/minrouter.git\r\n\r\n## Usage\r\n* see [example.html](https://github.com/cheft/minrouter/blob/master/example.html)\r\n* routes rules like backbone, [more](http://backbonejs.org/#Router-routes)\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}

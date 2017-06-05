@@ -1,0 +1,8 @@
+title: Minrouter
+description: a micro client/server-side router, support pushState, hashchange to IE8+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
